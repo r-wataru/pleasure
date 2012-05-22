@@ -1,0 +1,55 @@
+body {
+  background-color:#ccc;
+}
+.a{
+  color:#fff;
+  font-size:13px;
+  font-weight:bold;
+  margin-left:5px;
+}
+.b{
+  width:500px;
+}
+.c{
+  height:20px;
+  margin: 0 6px 10px;
+}
+.d{
+  position:relative;
+}
+.e{
+  width: 488px;
+  background-color: #999;
+  barder: none;
+  height:9px;
+  overflow:hidden;
+  position: absolute;
+  top:6px;
+}
+span.f{
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  z-index: 1px;
+  height:21px;
+  width:11px;
+  background:#fff;
+}
+.g {
+  position:absolute;
+  font-size:85%;
+  top:24px;
+}
+.h{
+  position: absolute;
+  font-size:85%;
+  top:24px;
+  right:0;
+}
+.j{
+  border: 0;
+  height:20px;
+  margin: 0 5px;
+  text-align: right;
+  width: 40px;
+}

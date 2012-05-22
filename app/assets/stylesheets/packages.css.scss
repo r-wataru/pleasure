@@ -1,0 +1,66 @@
+#svg_draw_2 {
+    margin: 0 auto;
+    width: 800px;
+}
+#svg_draw_2 #svg {
+    font-size: 80%;
+    margin: 0 auto;
+    width: 640px;
+}
+#svg_draw_2 #svg label, #svg_draw_2 #svg div {
+    display: inline-block;
+    vertical-align: top;
+}
+#svg_draw_2 #svgcanvas {
+    border: 1px solid #999999;
+    clear: both;
+}
+#svg_draw_2 #svgcanvas {
+    font-size: 80%;
+    height: 480px;
+    margin: 0 auto;
+    width: 640px;
+}
+#svg_draw_2 #fill {
+    background-color: #FF0000;
+    display: inline-block;
+    height: 28px;
+    width: 28px;
+}
+#svg_draw_2 #fill img {
+    left: -4px;
+    position: relative;
+    top: -4px;
+}
+#svg_draw_2 #stroke {
+    background-color: #000000;
+    display: inline-block;
+    height: 28px;
+    width: 28px;
+}
+#svg_draw_2 #stroke img {
+    left: -4px;
+    position: relative;
+    top: -4px;
+}
+
+
+#svg_draw_2 #svg fieldset {
+    border-style: none;
+    height: 70px;
+    padding: 5px 10px;
+    width: 620px;
+}
+
+#svg_draw_2 #svg label {
+    border-right: 1px solid #999999;
+    height: 44px;
+    padding: 0 3px;
+}
+
+#svg_draw_2 #svg label, #svg_draw_2 #svg div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+

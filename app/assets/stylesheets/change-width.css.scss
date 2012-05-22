@@ -1,0 +1,26 @@
+h1 {
+  font-size:14pt;
+  border-bottom:1px dotted gray;
+  width:320px;
+}
+#AllArea{
+  width:910px;
+  height:600px;
+  background:#fff;
+  border:5px dotted #000;
+  display:inline-block;
+}
+#Area1 {
+  background-color:#3f0;
+  border:2px solid #000;
+  width:45%;
+  height:50%;
+  float:left;
+}
+#Area2{
+  background-color:#3f0;
+  border:2px solid #000;
+  width:45%;
+  height:45%;
+  float:left;
+}

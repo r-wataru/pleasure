@@ -1,0 +1,44 @@
+td.right{
+  text-align:right;
+}
+.ui-widget-content {
+  background: #999;
+  height:9px;
+  position:absolute;
+  width:488px;
+}
+.ui-widget {
+  font-size: 1.1em;
+}
+.ui-slider-horizontal {
+  height: 9px;
+}
+.ui-slider {
+  position: relative;
+  text-align: left;
+}
+.ui-widget {
+  font-size: 1.1em;
+}
+.ui-slider-horizontal .ui-slider-handle {
+  top: -0.3em;
+}
+.ui-slider .ui-slider-handle {
+  cursor: pointer;
+  height: 1.2em;
+  position: absolute;
+  width: 1.2em;
+  z-index: 1;
+}
+.ui-state-default, .ui-widget-content .ui-state-default {
+  background: #fff;
+  cursor:pointer;
+  height:21px;
+  position:absolute;
+  width:11px;
+}
+input{
+  width:40px;
+  text-align:right;
+  margin-left:15px;
+}
